@@ -29,4 +29,9 @@ dist-ssr
 *.vars
 .wrangler
 _worker.bundle
+<<<<<<< HEAD
 *.yml
+=======
+
+Modelfile
+>>>>>>> a6d81b1b0ed95a60eb9196606946ca2db8d548a3
