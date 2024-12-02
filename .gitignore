@@ -22,6 +22,7 @@ dist-ssr
 *.sln
 *.sw?
 
+/.history
 /.cache
 /build
 .env.local
@@ -34,4 +35,3 @@ _worker.bundle
 =======
 
 Modelfile
->>>>>>> a6d81b1b0ed95a60eb9196606946ca2db8d548a3
